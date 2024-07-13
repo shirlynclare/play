@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 #access the api keys
 load_dotenv()
 replicate_api_key=os.getenv("REPLICATE_API_TOKEN")
-print(replicate_api_key)
+
 with st.sidebar:
     st.title("garagechatbot")
     st.write("welcome to chatbot")
