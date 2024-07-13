@@ -1,0 +1,8 @@
+langchain
+langchain_community
+pinecone
+replicate
+python_dotenv
+streamlit
+os
+langchain_pinecone
